@@ -14,7 +14,7 @@
 - REST
 - RPC
 
-### **3. Containerization and Orchestration
+### **3. Containerization and Orchestration**
 - Docker
 - Kubernetes
 
