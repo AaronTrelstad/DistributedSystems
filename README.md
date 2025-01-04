@@ -25,6 +25,11 @@ Here is a collection of the resources I've been using to learn about distributed
 - **[Secure Untrusted Data Repository (SUNDR)](https://pdos.csail.mit.edu/6.824/papers/li-sundr.pdf)**
 - **[Practical Byzantine Fault Tolerance](https://pdos.csail.mit.edu/6.824/papers/castro-practicalbft.pdf)**
 - **[Bitcoin: A Peer-to-Peer Electronic Cash System](https://pdos.csail.mit.edu/6.824/papers/bitcoin.pdf)**
+- **[Kafka: a Distributed Messaging System for Log Processing](https://notes.stephenholiday.com/Kafka.pdf)**
+- **[Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)**
+- **[Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)**
+- **[TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)**
+- **[Design patterns for container-based distributed systems](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45406.pdf)**
 
 **Courses**
 - **[MIT 6.5840 Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html)**
