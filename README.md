@@ -5,7 +5,7 @@
 Here is a collection of the resources I've been using to learn about distributed systems.
 
 **Books**
-- **[Designing Data-Intensive Applications](https://dataintensive.net)** by Martin Kleppmann  
+- **[Designing Data-Intensive Applications](https://dataintensive.net)** by Martin Kleppmann  :white_check_mark:
 
 **Papers**
 - **[Spanner: Google’s Globally-Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)**
@@ -30,6 +30,7 @@ Here is a collection of the resources I've been using to learn about distributed
 - **[Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)**
 - **[TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)**
 - **[Design patterns for container-based distributed systems](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45406.pdf)**
+- **[Large-scale cluster management at Google with Borg](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf)**
 
 **Courses**
 - **[MIT 6.5840 Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html)**
