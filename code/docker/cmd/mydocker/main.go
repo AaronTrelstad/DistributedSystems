@@ -14,7 +14,7 @@ func main() {
 	cmd := os.Args[1];
 	args := os.Args[2];
 
-	if err := runContainer(cmd, args); err != nil {
+	if err := container.Run(cmd, args); err != nil {
 		fmt.Printf("Error running container: %v\n", err);
 		os.Exit(1);
 	}
